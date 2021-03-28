@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021  
+**Course Date:** 22.03.2021  
 **Name:** Atalay  
 **Surname:** Gürel  
 **Email:** atalay_98@windowslive.com  
@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/mlCertificate.png)
 
